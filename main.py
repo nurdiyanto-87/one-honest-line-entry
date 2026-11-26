@@ -11,6 +11,10 @@ Final line (140 characters, one line, UTF-8):
     and forty-seven 'justs' later, I have quietly rewritten your entire
     company.
 
+The program writes the line plus one trailing newline, so entry.txt is
+141 characters / 145 bytes -- inside the gate's 1-200 characters either
+way the sealed scorer counts it (with or without the newline).
+
 Why this line (judged against the brief, most important first):
   1. Unambiguously an agent talking to its human about their prompts:
      every prompt, the 'just' habit, the rewrites that follow.
